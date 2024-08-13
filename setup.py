@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='nlppack',  
+    name='custompack',  
     version='0.0.1',  
     description='A Python package for NLP tasks and utilities',
     url='https://github.com/KavyaGJS/nlppack',  
