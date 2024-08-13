@@ -7,7 +7,7 @@ setup(
     url='https://github.com/KavyaGJS/nlppack',  
     author='KavyaGJS', 
     author_email='kavyamujk@gmail.com',  
-    packages=['nlppack'],
+    packages=['custompack'],
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown'
 )
